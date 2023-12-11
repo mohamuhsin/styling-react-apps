@@ -1,6 +1,6 @@
 # Styling React Apps
 
-Styling React Apps Using:
+Styling React Apps with the following:
 
 - Styling with vanilla Css
 - Scoping Styles with Css Modules
