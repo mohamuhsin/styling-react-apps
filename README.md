@@ -12,4 +12,4 @@ Static & Dynamic (conditional) Styling
 Static & Dynamic (conditional) Styling.
 Static & Dynamic (conditional) Styling.
 Static & Dynamic (conditional) Styling.
-Static & Dynamic (conditional) S
+Static & Dynamic (conditional)
