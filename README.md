@@ -10,4 +10,4 @@ Styling React Apps with the following:
 
 Static & Dynamic (conditional) Styling
 Static & Dynamic (conditional) Styling.
-Static & Dyna
+Static & Dyn
