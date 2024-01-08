@@ -6,4 +6,4 @@ Styling React Apps with the following:
 - Scoping Styles with CSS Modules
 - CSS in js Styling with Styled Components
 - Stylin With Tailwind CSS
-- Static & Dynamic (conditional) Styling.Styli
+- Static & Dynamic (conditional) Styling.Sty
