@@ -7,4 +7,4 @@ Styling React Apps with the following:
 - CSS in js Styling with Styled Components
 - Styling With Tailwind CSS
 - Static & Dynamic (conditional) Styling.
-- Static & Dynamic (conditional) Sty
+- Static & Dynamic (conditional) St
