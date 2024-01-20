@@ -7,4 +7,4 @@ Styling React Apps with the following:
 - CSS in js Styling with Styled Components
 - Styling With Tailwind CSS
 - Static & Dynamic (conditional) Styling.
-custom AI that I can access an
+custom AI that I can access 
