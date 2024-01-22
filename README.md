@@ -8,4 +8,4 @@ Styling React Apps with the following:
 - Styling With Tailwind CSS
 - Static & Dynamic (conditional) Styling.
 - Static & Dynamic (conditional) Styling.
-- Static & Dynamic (conditional) 
+- Static & Dynamic (conditiona
