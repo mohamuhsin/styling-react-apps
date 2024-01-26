@@ -1,4 +1,4 @@
-ZZ z# Styling React Apps
+# Styling React Apps
 
 Styling React Apps with the following:
 
